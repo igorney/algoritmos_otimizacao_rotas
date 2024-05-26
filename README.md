@@ -31,7 +31,7 @@ git clone https://github.com/seu_usuario/algoritmos_otimizacao_rotas.git
 cd algoritmos_otimizacao_rotas
 ```
 ## Executando o Notebook
-### Para executar o notebook, você pode utilizar o Jupyter Notebook ou Jupyter Lab. Se você não os tiver instalados, pode instalá-los utilizando pip:
+Para executar o notebook, você pode utilizar o Jupyter Notebook ou Jupyter Lab. Se você não os tiver instalados, pode instalá-los utilizando pip:
 
 ```bash
 pip install notebook jupyterlab
